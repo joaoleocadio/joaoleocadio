@@ -4,6 +4,8 @@
 
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joaoleocadio&show_icons=true&hide_border=true&theme=dark" /> 
 <img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoleocadio&layout=compact&theme=dark&hide_border=true" />
+
+![Snake animation](https://github.com/rafaballerini/joaoleocadio/blob/output/github-contribution-grid-snake.svg)
 <!--
 **joaoleocadio/joaoleocadio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
